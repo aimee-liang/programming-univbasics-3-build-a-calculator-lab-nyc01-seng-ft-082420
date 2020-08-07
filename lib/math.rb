@@ -19,9 +19,10 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+  modulo_total = num1 % num2
+  puts modulo_total
 end
 
 def square_root(num)
-
+  sqrt_total = 
 end
